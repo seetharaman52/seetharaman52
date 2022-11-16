@@ -12,17 +12,17 @@ type Me struct {
 
 func main() {
 	me := &Me{
-		Name:   "moonD4rk",
-		Job:    "Cyber Security Engineer",
-		Code:   "Go and Python and Others",
-		Skills: "Web Hacking ^o^",
+		Name:   "Seetharaman",
+		Job:    "Machine Learning Engineer",
+		Code:   "Java, Python and Others",
+		Skills: "Machine learning ^o^",
 	}
 	_ = me
 }
 ```
 
 <h3>📊 This Week I Spent My Time On:</h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=moond4rk&show_icons=true&theme=radical", width="300" height="150">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&theme=radical", width="300" height="150">
 
 <!--START_SECTION:waka-->
 
