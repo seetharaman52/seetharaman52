@@ -25,12 +25,5 @@ func main() {
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&theme=radical", width="300" height="150">
 
 <!--START_SECTION:waka-->
-
-```text
-Java                 14 hrs 44 mins  ███████████████▓░░░░░░░░░   62.41 %
-Python               6 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.03 %
-ShellScript          1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-```
-
 <!--END_SECTION:waka-->
 
