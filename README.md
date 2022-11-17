@@ -1,7 +1,7 @@
 [![Hi, I'm Seetharaman](./.assets/tech.jpg)](#)
 
-![Termux Logo](https://github.com/seetharaman52/seetharaman52/.assets/tech.jpg#gh-dark-mode-only)
-![Termux Logo](https://github.com/seetharaman52/seetharaman52/.assets/techl.jpg#gh-light-mode-only)
+![](https://github.com/seetharaman52/seetharaman52/.assets/tech.jpg#gh-dark-mode-only)
+![](https://github.com/seetharaman52/seetharaman52/.assets/techl.jpg#gh-light-mode-only)
 
 ```go
 package main
