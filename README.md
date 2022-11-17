@@ -1,4 +1,4 @@
-[Hi, I'm Seetharaman]
+<h2> Hi, I'm Seetharaman!</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seetharaman52/seetharaman52/main/.assets/tech.jpg">
