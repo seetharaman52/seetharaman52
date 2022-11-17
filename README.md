@@ -1,7 +1,7 @@
 [![Hi, I'm Seetharaman]
 
-![GitHub-Mark-Light](./.assets/techl.jpg#gh-dark-mode-only)
-![GitHub-Mark-Dark](./.assets/tech.jpg#gh-light-mode-only)
+![GitHub-Mark-Light](https://github.com/seetharaman52/seetharaman52/blob/main/.assets/tech.jpeg#gh-dark-mode-only)
+![GitHub-Mark-Dark](https://github.com/seetharaman52/seetharaman52/blob/main/.assets/techl.jpeg#gh-light-mode-only)
 
 ```go
 package main
