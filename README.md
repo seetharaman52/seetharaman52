@@ -1,9 +1,7 @@
 [![Hi, I'm Seetharaman](./.assets/tech.jpg)](#)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="techl.png">
-  <img alt="Light: 'Using light mode!' Dark: 'Using dark mode!'" src="techl.png">
-</picture>
+![Termux Logo](https://github.com/seetharaman52/seetharaman52/.assets/tech.jpg#gh-dark-mode-only)
+![Termux Logo](https://github.com/seetharaman52/seetharaman52/.assets/techl.jpg#gh-light-mode-only)
 
 ```go
 package main
