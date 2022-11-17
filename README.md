@@ -1,6 +1,6 @@
 <h2> Hi, I'm Seetharaman!</h2>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=seetharaman52.seetharaman52)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=seetharaman52)
 
 ```go
 package main
