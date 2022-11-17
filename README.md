@@ -1,9 +1,11 @@
 <h2> Hi, I'm Seetharaman!</h2>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seetharaman52/seetharaman52/main/.assets/tech.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seetharaman52/seetharaman52/main/.assets/techl.jpg">
 </picture>
+</p>
 
 
 ```go
