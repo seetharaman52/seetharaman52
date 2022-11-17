@@ -30,8 +30,10 @@ func main() {
   <img alt="" src="https://raw.githubusercontent.com/seetharaman52/seetharaman52/main/.assets/971.png">
 </picture>
 
+
 <h3>📊 This Week I Spent My Time On:</h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&theme=react", width="400" height="150">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=00000000", width="400" height="200">
+
 
 <!--START_SECTION:waka-->
 
