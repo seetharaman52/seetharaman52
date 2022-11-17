@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="tech.png">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="techl.png">
+  <src="techl.png">
 </picture>
 
 ```go
