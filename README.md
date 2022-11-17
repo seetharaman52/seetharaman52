@@ -3,7 +3,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seetharaman52/seetharaman52/main/.assets/tech.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seetharaman52/seetharaman52/main/.assets/techl.jpg">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://raw.githubusercontent.com/seetharaman52/seetharaman52/main/.assets/tech.jpg">
 </picture>
 
 
