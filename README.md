@@ -1,4 +1,4 @@
-[![Hi, I'm Seetharaman](./.assets/cp2_.jpg)](#)
+[![Hi, I'm Seetharaman](./.assets/cp2.jpg)](#)
 
 ```go
 package main
