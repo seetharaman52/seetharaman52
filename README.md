@@ -1,4 +1,4 @@
-<h2> Hi, I'm Seetharaman!</h2>
+[![Hi, I'm Duart Breedt](./assets/cover.png)](#)
 
 ```go
 package main
