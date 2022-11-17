@@ -29,7 +29,7 @@ func main() {
 </picture>
 
 <h3>📊 This Week I Spent My Time On:</h3>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&theme=synthwave", width="400" height="150">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&theme=react", width="400" height="150">
 
 <!--START_SECTION:waka-->
 
