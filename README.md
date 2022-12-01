@@ -38,9 +38,7 @@ func main() {
 <!--START_SECTION:waka-->
 
 ```text
-Java   1 hr 39 mins    ███████████████▓░░░░░░░░░   62.68 %
-C      31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-Text   27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
