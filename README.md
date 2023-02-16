@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Seetharaman</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
