@@ -36,3 +36,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&locale=en" alt="seetharaman52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seetharaman52&" alt="seetharaman52" /></p>
+
+<h3>📊 This Week I Spent My Time On:</h3>
+<!-- <img align='bottom' src="https://github-readme-stats.vercel.app/api?username=seetharaman52&show_icons=true&theme=merko&layout=compact&bg_color=00000000", width="500" height="300"> --> 
+
+
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
