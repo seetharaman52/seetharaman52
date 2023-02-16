@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/97898007/184473979-112f20de-b24d-4b5d-a7b2-8a8dd3d2db8b.gif" width="270" height="270"> </p>
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Seetharaman</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
