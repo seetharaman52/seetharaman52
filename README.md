@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharaman52&label=Profile%20views&color=0e75b6&style=flat" alt="seetharaman52" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seetharaman52" alt="seetharaman52" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cigar_523" target="blank"><img src="https://img.shields.io/twitter/follow/cigar_523?logo=twitter&style=for-the-badge" alt="cigar_523" /></a> </p>
 
 - 🔭 I’m currently pursuing **AI & DS in Karpagam Institute of Technology | Coimbatore**
