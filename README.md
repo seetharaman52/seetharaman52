@@ -38,9 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                  11 mins         ████████████████████░░░░░   79.80 %
-Markdown              2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
