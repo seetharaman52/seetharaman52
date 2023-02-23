@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **cigar@duck.com**
+- 📫 How to reach me **seetharamanshan699@gmail.com**
 
 - ⚡ My mantra- **Live, laugh and continuously acquire knowledge**
 
