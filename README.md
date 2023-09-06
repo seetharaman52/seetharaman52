@@ -23,11 +23,6 @@
 <a href="https://auth.geeksforgeeks.org/user/20ada48" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1559406522329100288/bZAmg2J7_400x400.jpg" alt="20ada48" height="50" width="50" /></a>
 <a href="https://leetcode.com/seetharaman52/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" alt="seetharaman52" height="50" width="50"/></a>
 </p>
-<div style="border: 1px solid black; padding: 10px; display: inline-block;">
-  <strong>Skills:</strong>
-  <hr style="border: none; height: 1px; background-color: black; margin: 50px 0;">
+<strong>Skills:</strong>
   
   **Python** | **Java** | **Machine Learning** | **Bash** | **MySQL** | **AWS Cloud** | **Linux** | **Flask** |
-
-</div>
-
