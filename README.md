@@ -26,6 +26,7 @@
 <div style="border: 1px solid black; padding: 10px; display: inline-block;">
   <strong>Skills:</strong>
   <hr style="border: none; height: 1px; background-color: black; margin: 5px 0;">
+  
   - **Python** |
   - **Java** |
   - **Machine Learning** |
@@ -34,5 +35,6 @@
   - **AWS Cloud** |
   - **Linux** |
   - **Flask** |
+    
 </div>
 
