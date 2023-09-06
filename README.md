@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharaman52&label=Profile%20views&color=0e75b6&style=flat" alt="seetharaman52" /> </p>
 
-<p align="left"> <a href="https://twitter.com/seetharaman523" target="blank"><img src="https://img.shields.io/twitter/follow/seetharaman523?logo=twitter&style=for-the-badge" alt="seetharaman523"/></a> </p>
+<p align="left"> <a href="https://twitter.com/seetharaman523" target="blank"><img src="https://img.shields.io/twitter/follow/seetharaman523?logo=twitter&style=for-the-badge" alt="seetharaman523"/></a></p>
 
 - 🔭 I’m currently pursuing **AI & DS in Karpagam Institute of Technology | Coimbatore**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seetharaman523" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="seetharaman523" height="30" width="40" /></a>
+<a href="https://twitter.com/seetharaman523" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="seetharaman523" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/seetharaman-shanmugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seetharaman-shanmugam" height="30" width="40" /></a>
 <a href="https://instagram.com/seetharaman_523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seetharaman_523" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/20ada48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20ada48" height="30" width="40" /></a>
