@@ -27,14 +27,7 @@
   <strong>Skills:</strong>
   <hr style="border: none; height: 1px; background-color: black; margin: 5px 0;">
   
-  - **Python** |
-  - **Java** |
-  - **Machine Learning** |
-  - **Bash** |
-  - **MySQL** |
-  - **AWS Cloud** |
-  - **Linux** |
-  - **Flask** |
-    
+  - **Python** | **Java** | **Machine Learning** | **Bash** | **MySQL** | **AWS Cloud** | **Linux** | **Flask** |
+
 </div>
 
