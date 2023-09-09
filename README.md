@@ -17,9 +17,9 @@
 - ⚡ My mantra- **Live, laugh and continuously acquire knowledge**
 
 ## Activity On GitHub:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=darcula&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=react&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-## Top Respositorys:
+## Top Repositories:
   <p align="left">
      <a href="https://github.com/seetharaman52/smart-energy-switch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seetharaman52&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
