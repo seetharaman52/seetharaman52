@@ -17,7 +17,7 @@
 - ⚡ My mantra- **Live, laugh and continuously acquire knowledge**
 
 ## Activity On GitHub:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=react&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=react&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=395)](https://git.io/streak-stats)
 
 ## Top Repositories:
   <p align="left">
