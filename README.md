@@ -1,8 +1,8 @@
-<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--<img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 <h1 align="center">Hi 👋, I'm Seetharaman</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=2years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharaman52&label=Profile%20views&color=0e75b6&style=flat" alt="seetharaman52" /> </p>
 
