@@ -19,13 +19,6 @@
 ## Activity On GitHub:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=react&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=395)](https://git.io/streak-stats)
 
-## Top Repositories:
-<p align="left">
-<a href="https://github.com/seetharaman52/smart-energy-switch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seetharaman52&repo=smart-energy-switch&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/seetharaman52/PettyShop"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seetharaman52&repo=PettyShop&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/seetharaman52/MiniProjects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seetharaman52&repo=MiniProjects&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/seetharaman523" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="seetharaman523" height="50" width="50" /></a>
