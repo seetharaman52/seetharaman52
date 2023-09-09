@@ -17,7 +17,7 @@
 - ⚡ My mantra- **Live, laugh and continuously acquire knowledge**
 
 ## Activity On GitHub:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=chartreuse-dark&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=darcula&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
