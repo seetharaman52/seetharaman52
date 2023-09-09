@@ -20,9 +20,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seetharaman52&theme=react&hide_border=true&border_radius=8.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=395)](https://git.io/streak-stats)
 
 ## Top Repositories:
-  <p align="left">
-     <a href="https://github.com/seetharaman52/smart-energy-switch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seetharaman52&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+<p align="left">
+<a href="https://github.com/seetharaman52/smart-energy-switch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=seetharaman52&repo=smart-energy-switch&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
