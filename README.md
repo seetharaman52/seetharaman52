@@ -1,7 +1,9 @@
 <img align="right" alt="Coding" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Seetharaman</h1>
 <h3 align="center">A passionate Learner from India</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=2%2B+Years+of+Coding+experience)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.demolab.com/?lines=20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharaman52&label=Profile%20views&color=0e75b6&style=flat" alt="seetharaman52" /> </p>
 
 <p align="left"> <a href="https://twitter.com/seetharaman523" target="blank"><img src="https://img.shields.io/twitter/follow/seetharaman523?logo=twitter&style=for-the-badge" alt="seetharaman523"/></a></p>
