@@ -21,3 +21,7 @@ jobs:
         git add contribution.txt
         git commit -m "Daily contribution"
         git push
+        rm contribution.txt
+        git rm contribution.txt
+        git commit -m "Removed contribution.txt"
+        git push
