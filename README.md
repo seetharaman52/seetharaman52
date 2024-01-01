@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/20ada48" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477936468496556035/BhitSnqG_400x400.jpg" alt="20ada48" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/20ada48" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="20ada48" height="50" width="50" /></a>
 <a href="https://twitter.com/seetharaman523" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="seetharaman523" height="50" width="50" /></a>
 <a href="https://leetcode.com/seetharaman52/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/910592237695676416/7xInX10u_400x400.jpg" alt="seetharaman52" height="50" width="50"/></a>
 <a href="https://linkedin.com/in/seetharaman-shanmugam" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="seetharaman-shanmugam" height="50" width="50" /></a>
